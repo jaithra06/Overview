@@ -42,15 +42,12 @@
 
 ## 🔗 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://linkedin.com/in/jaithra06" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+>
 
-<a href="https://instagram.com/your-instagram" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="mailto:your-email@gmail.com" target="blank">
+<a href="mailto:jaithra.lavu@gmail.com" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
