@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💻 Interested in **Java, Angular, Web Development**
 - 🎯 Goal: Become a **Software Developer**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **jaithra.lavu@gmail.com**
 
 ---
 
