@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🌱 I’m currently learning **Full Stack Development**
-- 💻 Interested in **Java, Angular, Web Development**
+- 💻 Interested in **Java,.NET, Angular, Web Development**
 - 🎯 Goal: Become a **Software Developer**
 - 📫 Reach me at: **jaithra.lavu@gmail.com**
 
