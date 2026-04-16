@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 Projects  
-- 🏥 **Hospital Management System (Angular + Java + MySQL)**
+- 🏥 **Hospital Management System (Angular + .NET + SQLServer)**
 - 📋 **Appointment Booking System**
 - 🔐 **Admin / Doctor / Patient Dashboard**
 
